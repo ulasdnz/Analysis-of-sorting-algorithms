@@ -12,9 +12,9 @@ of arrays by using the following algorithms and compare the results which you ca
 * Binary Insertion Sort
 * Insertion Sort
 
-## Installation
-This project requires [node](http://nodejs.org) 
 
 ### To Run the code
+
+This project requires [node](http://nodejs.org). After downloading the nodejs, run the following command:
 
 `node index.js`
