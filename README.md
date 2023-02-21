@@ -11,3 +11,14 @@ of arrays by using the following algorithms and compare the results which you ca
 * Merge Sort
 * Binary Insertion Sort
 * Insertion Sort
+
+## Installation
+This project requires [node](http://nodejs.org) and [npm](https://npmjs.com) installed globally.
+
+### To Install The Necessary Packages
+
+`npm install`
+
+### To Run the code
+
+`node index.js`
