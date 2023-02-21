@@ -13,7 +13,7 @@ of arrays by using the following algorithms and compare the results which you ca
 * Insertion Sort
 
 
-### To Run the code
+### Usage
 
 This project requires [node](http://nodejs.org). After downloading the nodejs, run the following command:
 
